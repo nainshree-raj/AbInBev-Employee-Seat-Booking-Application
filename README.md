@@ -38,9 +38,9 @@ SOLUTION : -
     * Submit button access
  
 2) Pick a seat.
-    * Implemented using HTML, CSS, JAVA SCRIPT, BOOTSTRAP
+    * Implemented using HTML5, CSS3, JAVA SCRIPT, BOOTSTRAP 5
     * A navigation bar at the top, containing details about the logined employee
-    * Choose a Day (M/T/W/T/F/S) to view available seats
+    * Choose a Day (Mon /Tues /Wed / Thurs / Fri / Sat) to view available seats
     * A presentable view of EMPTY, SELECTED, NOT SELECTED seats
     * Hovering feature to select a seat
     * Different colors to show empty, selected, not selected seats
