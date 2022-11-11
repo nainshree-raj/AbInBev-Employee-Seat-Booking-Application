@@ -1,6 +1,6 @@
-# AbInBev-Employee-Seat-Booking-Application
+H1 AbInBev-Employee-Seat-Booking-Application
 
-                                                    H1   Case Study 2: Employee Seat Booking Application
+                                                       Case Study 2: Employee Seat Booking Application
                                                        
 BACKGROUND :
 Employees are returning to the ABI office as the government has lifted the WFH rules with
