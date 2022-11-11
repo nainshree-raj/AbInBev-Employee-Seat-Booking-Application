@@ -32,9 +32,9 @@ SOLUTION : -
 
 APPROACH :
 1) Login/Registration Web page for the employee.
-    > Used Firebase Google Database
-    > Implemented using HTML, CSS, JAVA SCRIPT
-    > Features: Phone Number, Email ID, Password
+    * Used Firebase Google Database
+    * Implemented using HTML, CSS, JAVA SCRIPT
+    * Features: Phone Number, Email ID, Password
     > Option to Choose & Upload RTPCR Test
     > Submit button access
  
