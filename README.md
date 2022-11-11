@@ -30,7 +30,6 @@ EXPECTATIONS :
 
 SOLUTION : -
 
-APPROACH :
 1) Login/Registration Web page for the employee.
     * Used Firebase Google Database
     * Implemented using HTML, CSS, JAVA SCRIPT
@@ -51,4 +50,5 @@ APPROACH :
     * Uploaded file is stored with login credentials
     * Cloud firebase
     * Authentication is done here
- 
+   
+
