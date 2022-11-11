@@ -28,4 +28,21 @@ EXPECTATIONS :
 • A high-level project implementation plan
 • Working prototype (optional – for bonus points)
 
-SOLUTION : 
+SOLUTION : -
+
+APPROACH :
+1) Login/Registration Web page for the employee.
+    > Used Firebase Google Database
+    > Implemented using HTML, CSS, JAVA SCRIPT
+    > Features: Phone Number, Email ID, Password
+    > Option to Choose & Upload RTPCR Test
+    > Submit button access
+ 
+2) Pick a seat.
+    > Implemented using HTML, CSS, JAVA SCRIPT, BOOTSTRAP
+    > A navigation bar at the top, containing details about the logined employee
+    > Choose a Day (M/T/W/T/F/S) to view available seats
+    > A presentable view of EMPTY, SELECTED, NOT SELECTED seats
+    > Hovering feature to select a seat
+3)
+5) 
