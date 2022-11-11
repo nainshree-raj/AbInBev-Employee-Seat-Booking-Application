@@ -31,24 +31,26 @@ EXPECTATIONS :
 SOLUTION : -
 
 1) Login/Registration Web page for the employee.
-    * Used Firebase Google Database
-    * Implemented using HTML, CSS, JAVA SCRIPT
-    * Features: Phone Number, Email ID, Password
-    * Option to Choose & Upload RTPCR Test
-    * Submit button access
+
+    * Implemented using HTML, CSS, JAVA SCRIPT.
+    * Features: Authenticating the Employee using the credentials (Phone Number, Email ID, Password, RTPCR Report).
+    * Option to Choose & Upload RTPCR Test.
+    * Properly interconnected Multi-Page Web Application Design.
  
-2) Pick a seat.
-    * Implemented using HTML5, CSS3, JAVA SCRIPT, BOOTSTRAP 5
-    * A navigation bar at the top, containing details about the logined employee
-    * Choose a Day (Mon /Tues /Wed / Thurs / Fri / Sat) to view available seats
-    * A presentable view of EMPTY, SELECTED, NOT SELECTED seats
-    * Hovering feature to select a seat
-    * Different colors to show empty, selected, not selected seats
+2) Selecting a seat from the availability shown with the help of UI.
+
+    * Implemented using HTML5, CSS3, JAVA SCRIPT, BOOTSTRAP 5.
+    * Created a navigation bar at the top, containing details about the employee trying to Log-In The System.
+    * Implemented a Responsive Web Design using Media Queries for the Application.
+    * Choose a Day (Mon /Tues /Wed / Thurs / Fri / Sat) to view available seats.
+    * Implemented a dynamically changing presentable format for the EMPTY, SELECTED, NOT SELECTED seats.
+    * Hovering feature to select a seat.
+    * Different colors to show empty, selected, not selected seats.
   
 3) Firebase Google 
-    * Login Time and Exit Time can be accessed
-    * Uploaded file is stored with login credentials
-    * Cloud firebase
-    * Authentication is done here
+
+    * Made use of the Firebase Database Services provided by Google to store the credentials of the Employee (Name, Email, Password For Authentication and RTPCR reports).
+    * Effectively merged the Database in the backend with the application.
+    * Provided an interface to authenticate the given credentials (Working on the same)...
    
 
