@@ -1,6 +1,6 @@
 # AbInBev-Employee-Seat-Booking-Application
 
-                                             Case Study 2: Employee Seat Booking Application
+                                        Case Study 2: Employee Seat Booking Application
                                                        
 BACKGROUND :
 Employees are returning to the ABI office as the government has lifted the WFH rules with
@@ -36,6 +36,10 @@ SOLUTION : -
     * Features: Authenticating the Employee using the credentials (Phone Number, Email ID, Password, RTPCR Report).
     * Option to Choose & Upload RTPCR Test.
     * Properly interconnected Multi-Page Web Application Design.
+    
+    <br>
+    
+    ![](https://github.com/nainshree-raj/AbInBev-Employee-Seat-Booking-Application/blob/main/Screenshot%20(7).png)
  
 2) Selecting a seat from the availability shown with the help of UI.
 
@@ -46,6 +50,10 @@ SOLUTION : -
     * Implemented a dynamically changing presentable format for the EMPTY, SELECTED, NOT SELECTED seats.
     * Hovering feature to select a seat.
     * Different colors to show empty, selected, not selected seats.
+    
+    <br>
+    
+    ![](https://github.com/nainshree-raj/AbInBev-Employee-Seat-Booking-Application/blob/main/Screenshot%20(9).png)
   
 3) Firebase Google 
 
@@ -53,5 +61,9 @@ SOLUTION : -
       reports).
     * Effectively merged the Database in the backend with the application.
     * Provided an interface to authenticate the given credentials (Working on the same)...
+    
+    <br>
+    
+    ![](https://github.com/nainshree-raj/AbInBev-Employee-Seat-Booking-Application/blob/main/Screenshot%20(13).png)
    
 
