@@ -49,7 +49,8 @@ SOLUTION : -
   
 3) Firebase Google 
 
-    * Made use of the Firebase Database Services provided by Google to store the credentials of the Employee (Name, Email, Password For Authentication and RTPCR reports).
+    * Made use of the Firebase Database Services provided by Google to store the credentials of the Employee (Name, Email, Password For Authentication and RTPCR
+      reports).
     * Effectively merged the Database in the backend with the application.
     * Provided an interface to authenticate the given credentials (Working on the same)...
    
